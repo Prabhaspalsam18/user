@@ -1,0 +1,10 @@
+org\example\model\UserDetails.class
+org\example\service\UserDetailsService.class
+org\example\dto\UserDetailsResponse.class
+org\example\repositry\UserDetailsRepositry.class
+org\example\UserDetailsApplication.class
+org\example\dto\UserDetailsRequest$UserDetailsRequestBuilder.class
+org\example\dto\UserDetailsRequest.class
+org\example\dto\UserDetailsResponse$UserDetailsResponseBuilder.class
+org\example\controller\UserDetailsController.class
+org\example\model\UserDetails$UserDetailsBuilder.class

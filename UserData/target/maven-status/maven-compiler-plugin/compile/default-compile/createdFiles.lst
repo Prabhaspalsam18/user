@@ -1,0 +1,14 @@
+org\example\dto\UserDataRequest$UserDataRequestBuilder.class
+org\example\service\UserDataService.class
+org\example\model\UserDataPostgres$UserDataPostgresBuilder.class
+org\example\dto\UserDataRequest.class
+org\example\service\SampleTest.class
+org\example\controller\UserDataController.class
+org\example\repositry\UserDataPostgresRepositry.class
+org\example\repositry\UserDataMongoRepositry.class
+org\example\model\UserDataMongo$UserDataMongoBuilder.class
+org\example\UserDataApplication.class
+org\example\model\UserDataMongo.class
+org\example\dto\UserDataResponse$UserDataResponseBuilder.class
+org\example\dto\UserDataResponse.class
+org\example\model\UserDataPostgres.class
